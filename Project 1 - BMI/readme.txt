@@ -6,20 +6,20 @@ If a person's BMI is out of the healthy BMI range, their health risks may increa
 BMI values are age-independent and the same for both sexes. However, BMI may not correspond to the same degree of fatness in different populations due to different body proportions.
 
 
-###############################
-######Conversion Table#########
-###############################
-##Underweight (<=18)         ##
-##Healthy (19-24)            ##
-##Overweight (25-29)         ##
-##Obese (30-39)              ##
-##Extremely Obese (>=40)     ##
-##***************************##
-##1 foot = 12 inches         ##
-##1 meter = 39.3701 inches   ##
-##1 kilogram = 2.20462 pounds##
-###############################
-###############################
+#################################
+###### Conversion Table #########
+#################################
+##    Underweight (<=18)       ##
+##    Healthy (19-24)          ##
+##    Overweight (25-29)       ##
+##    Obese (30-39)            ##
+##  Extremely Obese (>=40)     ##
+##*****************************##
+##  1 foot = 12 inches         ##
+##  1 meter = 39.3701 inches   ##
+## 1 kilogram = 2.20462 pounds ##
+#################################
+#################################
 
 
 #################################
