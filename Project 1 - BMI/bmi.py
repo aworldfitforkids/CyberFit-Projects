@@ -1,15 +1,15 @@
 #!/usr/bin/python3
 
-###############################################################
-#Let the use know what the program does and what info it needs#
-###############################################################
+################################################################
+#Let the user know what the program does and what info it needs#
+################################################################
 print("Welcome to Mr. BMI")
-print("Enter your height. First enter feet then inches")
 
 
 #########################################################################
 #Get height in feet and inches, if it is only inches then put 0 for feet#
 #########################################################################
+print("Enter your height. First enter feet then inches")
 feet= input("Feet: ")
 inches= input("Inches: ")
 
@@ -29,7 +29,7 @@ weight= input("Pounds: ")
 ############################################
 feet2inches= int(feet) * 12
 totalinches= int(inches) +  feet2inches
-meters= (totalinches / 39.3701)
+meters= totalinches / 39.3701
 kilograms =  int(weight) / 2.2
 
 ###############
@@ -40,7 +40,7 @@ bmi = kilograms / (meters * meters)
 #######################
 #round to two decimals#
 #######################
-bmi = round(bmi,2)
+bmi = round(bmi,0)
 
 
 ####################################################
